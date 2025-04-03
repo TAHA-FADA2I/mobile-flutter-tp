@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "T-Shirt",
+      "price": 19.99
+    },
+    {
+      "name": "Chaussures",
+      "price": 59.99
+    }
+  ],
+  "orders": [
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "T-Shirt",
+      "quantity": 2
+    },
+    {
+      "product": "Chaussures",
+      "quantity": 1
+    }
+  ]
+}
