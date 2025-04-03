@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "casquette",
+      "price": 150
+    }
+  ],
+  "orders": [
+    {
+      "product": "casquette",
+      "quantity": 2
+    },
+    {
+      "product": "casquette",
+      "quantity": 2
+    }
+  ]
+}
