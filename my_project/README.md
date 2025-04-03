@@ -11,14 +11,24 @@ Un projet simple pour découvrir comment :
 
 
 my_project/
+
+
 ├── dart_api_client/      # Client Dart
+
 │   ├── client.dart       # Script principal
+
 │   ├── pubspec.yaml      # Dépendances Dart
+
 │   └── pubspec.lock
+
 ├── tp-backend/           # Serveur Node.js
+
 │   ├── server.js         # API REST
+
 │   └── data.json         # Base de données
-└── README.md             # Ce fichier     
+
+└── README.md             # Ce fichier    
+
 └── screenshoots          # Affichage
 
 ## 🚀 Commencer
